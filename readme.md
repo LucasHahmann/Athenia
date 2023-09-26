@@ -1,12 +1,12 @@
 # Athenia
 
-## Warum das GitHub Repo?
+## Why the GitHub Repo?
 
-Ich möchte gerne diese Welt jedem zur verfügung Stellen, um Sie privat zu benutzen.
+I would like to make this world available to everyone for private use.
 
-## Die Welt
+## The World
 
-Athenia ist eine weitere Fantasy Welt, geschaffen von mir. Die Welt habe ich aufgrund einer spontanen Runde Pen&Paper, mir aus den Fingern gezogen und weiter ausgebaut. Ich möchte gerne eine Welt erschaffen, die von allen genutzt werden können.
-Die Welt sollte nicht ernst und dem Standard entspringen, deswegen gibt es einige lustige Charaktere wie Orte zu begutachten. Nach den üblichen Rassen der Menschen, Zwerge, Orks kommen aber noch die Bolgs, Knuts und andere Lebewesen vor. Man kann das Umwerland erkunden, eine freundliche gegend, gefolgt von den Kultiras Inseln, die schön aber auch hart werden können. Die verdorbene Steppe war mal schön und das Aramengebirge ist wie eh und je so hoch wie nie. Weiter unten folgen die Wälder der Algos wo Revoil, eine sehr ungewöhnliche Stadt, in einem Tal liegt. Die Tur Wüste ist ein schwerer Ort für alle, außer für die Bewohner.
+Athenia is another fantasy world created by me. I created the world on the basis of an impromptu round of pen and paper and developed it further. I would like to create a world that can be used by everyone.
+The world should not be serious and standard, so there are some funny characters like places to look at. After the usual races of humans, dwarves, orcs, there are also bolgs, knuts and other creatures. You can explore the Umwerland, a friendly area, followed by the Kultiras Islands, which can be beautiful but also hard. The blighted steppe used to be beautiful and the Aramen Mountains are as high as ever. Further down follow the forests of the Algos where Revoil, a very unusual town, lies in a valley. The Tur Desert is a hard place for all but its inhabitants.
 
-Über den Kontinent Canath ist recht vieles bekannt. Aber die meisten waren noch nie dor.
+Quite a lot is known about the continent of Canath. But most have never been there.
