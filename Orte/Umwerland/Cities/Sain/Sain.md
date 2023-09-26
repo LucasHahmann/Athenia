@@ -7,3 +7,11 @@ There is a town hall, which consists of an office like a larger covered area, fo
 Of course, there is also a tavern.
 
 ![Sain](sain.jpg)
+
+## Persons
+
+-    [Tara Linde](./Persons/TaraLinde.md)
+
+## Tavern "To the curve"
+
+The tavern "To the curve" is the only
